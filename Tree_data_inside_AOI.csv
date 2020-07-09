@@ -1,0 +1,726 @@
+fid,id,genus,name_german,name_original,treetop_diam,tree_height,year_of_planting,license,credits
+"1","3182853",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","3","1985",Deutschland Namensnennung 2.0,Land Berlin
+"2","3183009",Quercus,,Platanus acerifolia,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"3","3184423",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"4","3219510",Acer,Spitz-Ahorn,Acer platanoides,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"5","3236935",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"8","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"6","3237424",Acer,Spitz-Ahorn,Acer platanoides,"5","12","1972",Deutschland Namensnennung 2.0,Land Berlin
+"7","3239672",Acer,Eschen-Ahorn,Acer negundo,"9","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"8","3241522",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"4","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"9","3243711",Betula,,Betula pendula,"10","17","1975",Deutschland Namensnennung 2.0,Land Berlin
+"10","3243874",Acer,Eschen-Ahorn,Acer negundo,"9","9","1985",Deutschland Namensnennung 2.0,Land Berlin
+"11","3244022",Corylus,Baum-Hasel,Corylus colurna,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"12","3244187",Quercus,Rot-Eiche,Quercus rubra,"5","20","1978",Deutschland Namensnennung 2.0,Land Berlin
+"13","3259224",Acer,Eschen-Ahorn,Acer negundo,"11","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"14","3259389",Acer,Eschen-Ahorn,Acer negundo,"8","12","1956",Deutschland Namensnennung 2.0,Land Berlin
+"15","3259798",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","7","2002",Deutschland Namensnennung 2.0,Land Berlin
+"16","3260387",Gleditsia,Amerikanische Gleditschie,Gleditsia triacanthos,"5","17","1982",Deutschland Namensnennung 2.0,Land Berlin
+"17","3260846",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"10","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"18","3261004",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7","1965",Deutschland Namensnennung 2.0,Land Berlin
+"19","3261323",Acer,Eschen-Ahorn,Acer negundo,"5","12","1988",Deutschland Namensnennung 2.0,Land Berlin
+"20","3261927",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","7","2002",Deutschland Namensnennung 2.0,Land Berlin
+"21","3263127",Acer,Spitz-Ahorn,Acer platanoides,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"22","3263130",Prunus,Traubenkirsche,Pinus strobus,"5","10","1992",Deutschland Namensnennung 2.0,Land Berlin
+"23","3263736",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"9","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"24","3264196",Corylus,Baum-Hasel,Corylus colurna,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"25","3264360",Quercus,Rot-Eiche,Quercus rubra,"10","25","1975",Deutschland Namensnennung 2.0,Land Berlin
+"26","3264427",Corylus,Baum-Hasel,Corylus colurna,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"27","3264431",Corylus,Baum-Hasel,Corylus colurna,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"28","3266232",Acer,Spitz-Ahorn,Acer platanoides,,"12","1998",Deutschland Namensnennung 2.0,Land Berlin
+"29","3266244",Populus,Silber-Pappel 'Nivea',Populus alba 'Nivea',"6","15",,Deutschland Namensnennung 2.0,Land Berlin
+"30","2819902",Acer,Spitz-Ahorn,Acer platanoides,,"17","1951",Deutschland Namensnennung 2.0,Land Berlin
+"31","2877616",Populus,,Populus x canadensis Hybride,"8","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"32","2877879",Populus,,Populus x canadensis Hybride,"5","20","1950",Deutschland Namensnennung 2.0,Land Berlin
+"33","2877880",Populus,,Populus x canadensis Hybride,"10","22","1950",Deutschland Namensnennung 2.0,Land Berlin
+"34","2878085",Acer,Berg-Ahorn,Acer pseudoplatanus,"4.5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"35","2878144",Quercus,Stiel-Eiche,Quercus robur,"4","12","1997",Deutschland Namensnennung 2.0,Land Berlin
+"36","2878586",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"37","2878942",Malus,Holz-Apfel,Pinus sylvestris,,"5",,Deutschland Namensnennung 2.0,Land Berlin
+"38","2878943",Acer,Spitz-Ahorn,Acer platanoides,,"17",,Deutschland Namensnennung 2.0,Land Berlin
+"39","2879201",Betula,,Betula pendula,"8","12","1995",Deutschland Namensnennung 2.0,Land Berlin
+"40","2879487",Sorbus,Vogelbeere,Sorbus aucuparia,"2","3",,Deutschland Namensnennung 2.0,Land Berlin
+"41","2879533",Betula,,Betula pendula,"5","17","1984",Deutschland Namensnennung 2.0,Land Berlin
+"42","2880512",Ulmus,Berg-Ulme,Ulmus glabra,"5","17","1990",Deutschland Namensnennung 2.0,Land Berlin
+"43","2880594",Tilia,Winter-Linde,Tilia cordata,"13","12",,Deutschland Namensnennung 2.0,Land Berlin
+"44","2880595",Tilia,Sommer-Linde,Tilia platyphyllos,"14","30",,Deutschland Namensnennung 2.0,Land Berlin
+"45","2880830",Populus,,Populus x canadensis Hybride,"15","35","1950",Deutschland Namensnennung 2.0,Land Berlin
+"46","2880835",Populus,,Populus x canadensis Hybride,"15","35","1950",Deutschland Namensnennung 2.0,Land Berlin
+"47","2880922",Salix,Silber-Weide,Salix alba,"6","12","1989",Deutschland Namensnennung 2.0,Land Berlin
+"48","2880990",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"49","2880991",Tilia,,Tilia americana,"8","17","1974",Deutschland Namensnennung 2.0,Land Berlin
+"50","2881182",Acer,Berg-Ahorn,Acer pseudoplatanus,"3.5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"51","2881183",Acer,Feld-Ahorn,Acer campestre,"3.5","7",,Deutschland Namensnennung 2.0,Land Berlin
+"52","2901670",Populus,,Populus x canadensis Hybride,"5","20","1950",Deutschland Namensnennung 2.0,Land Berlin
+"53","2901674",Acer,Feld-Ahorn,Acer campestre,"4","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"54","2901718",Betula,,Betula pendula,"4.5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"55","2903005",Prunus,Traubenkirsche,Pinus strobus,,"7",,Deutschland Namensnennung 2.0,Land Berlin
+"56","2904071",Prunus,Traubenkirsche,Prunus padus,"4","3",,Deutschland Namensnennung 2.0,Land Berlin
+"57","2904099",Prunus,,Prunus avium,"4","7","1989",Deutschland Namensnennung 2.0,Land Berlin
+"58","2904689",Populus,,Populus x canadensis Hybride,"7","20","1950",Deutschland Namensnennung 2.0,Land Berlin
+"59","2904927",Populus,,Populus x canadensis Hybride,"6","16","1950",Deutschland Namensnennung 2.0,Land Berlin
+"60","2904929",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"61","2904980",Gleditsia,Amerikanische Gleditschie,Gleditsia triacanthos,"5","17",,Deutschland Namensnennung 2.0,Land Berlin
+"62","2905199",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"4","10","2003",Deutschland Namensnennung 2.0,Land Berlin
+"63","2905503",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","12",,Deutschland Namensnennung 2.0,Land Berlin
+"64","2905508",Acer,Berg-Ahorn,Acer pseudoplatanus,,"17",,Deutschland Namensnennung 2.0,Land Berlin
+"65","2905510",Quercus,Stiel-Eiche,Quercus robur,"5","17",,Deutschland Namensnennung 2.0,Land Berlin
+"66","2858611",Ulmus,Flatter-Ulme,Ulmus laevis,,"12","1971",Deutschland Namensnennung 2.0,Land Berlin
+"67","2865882",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"68","2866882",Tilia,,Tilia americana,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"69","2867916",Prunus,,Prunus avium,"6","7","1989",Deutschland Namensnennung 2.0,Land Berlin
+"70","2867992",Tilia,,Tilia americana,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"71","2868616",Castanea,Ess-Kastanie,Castanea sativa,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"72","2868617",Castanea,Ess-Kastanie,Castanea sativa,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"73","2903459",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"8","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"74","2903537",Acer,Feld-Ahorn,Acer campestre,"2","12",,Deutschland Namensnennung 2.0,Land Berlin
+"75","2903660",Populus,Grau-Pappel,Populus canescens,"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"76","2903716",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","7","1999",Deutschland Namensnennung 2.0,Land Berlin
+"77","2903786",Acer,Berg-Ahorn,Acer pseudoplatanus,"2","7","2005",Deutschland Namensnennung 2.0,Land Berlin
+"78","2904001",Tilia,,Tilia americana,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"79","2904487",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"80","2904488",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"81","2904624",Acer,Spitz-Ahorn,Acer platanoides,"4.5","20",,Deutschland Namensnennung 2.0,Land Berlin
+"82","2904928",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"83","2905405",Acer,Spitz-Ahorn,Acer platanoides,"4","12",,Deutschland Namensnennung 2.0,Land Berlin
+"84","2905500",Acer,Feld-Ahorn,Acer campestre,"6","10","1993",Deutschland Namensnennung 2.0,Land Berlin
+"85","2905507",Acer,Berg-Ahorn,Acer pseudoplatanus,"3.5","7",,Deutschland Namensnennung 2.0,Land Berlin
+"86","2905639",Acer,Berg-Ahorn,Acer pseudoplatanus,"7","17",,Deutschland Namensnennung 2.0,Land Berlin
+"87","2905642",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","7",,Deutschland Namensnennung 2.0,Land Berlin
+"88","2866781",Malus,,Malus domestica,,"2","2017",Deutschland Namensnennung 2.0,Land Berlin
+"89","2866782",Malus,,Malus domestica,,"3","2013",Deutschland Namensnennung 2.0,Land Berlin
+"90","2877500",Malus,,Malus domestica,,"3","2013",Deutschland Namensnennung 2.0,Land Berlin
+"91","2885321",Malus,,Malus domestica,,"3","2013",Deutschland Namensnennung 2.0,Land Berlin
+"92","2894275",Malus,,Malus domestica,,"3","2013",Deutschland Namensnennung 2.0,Land Berlin
+"93","2881665",Acer,Berg-Ahorn,Acer pseudoplatanus,,"7","1997",Deutschland Namensnennung 2.0,Land Berlin
+"94","2881724",Acer,Feld-Ahorn,Acer campestre,"5","3",,Deutschland Namensnennung 2.0,Land Berlin
+"95","2882292",Acer,Spitz-Ahorn,Acer platanoides,"8","17",,Deutschland Namensnennung 2.0,Land Berlin
+"96","2882574",Acer,Spitz-Ahorn,Acer platanoides,"8","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"97","2882575",Populus,,Populus x canadensis Hybride,"15","45","1970",Deutschland Namensnennung 2.0,Land Berlin
+"98","2882643",Acer,Eschen-Ahorn,Acer negundo,,"17",,Deutschland Namensnennung 2.0,Land Berlin
+"99","2882878",Acer,Eschen-Ahorn,Acer negundo,"6","10",,Deutschland Namensnennung 2.0,Land Berlin
+"100","2883150",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7",,Deutschland Namensnennung 2.0,Land Berlin
+"101","2883153",Acer,Spitz-Ahorn,Acer platanoides,"4","12",,Deutschland Namensnennung 2.0,Land Berlin
+"102","2883714",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1989",Deutschland Namensnennung 2.0,Land Berlin
+"103","2883819",Tilia,,Tilia americana,"8","17","1974",Deutschland Namensnennung 2.0,Land Berlin
+"104","2884343",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"105","2884535",Populus,,Populus x canadensis Hybride,"5","20","1950",Deutschland Namensnennung 2.0,Land Berlin
+"106","2884606",Acer,Spitz-Ahorn,Acer platanoides,"8","12","1965",Deutschland Namensnennung 2.0,Land Berlin
+"107","2885083",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"108","2885084",Quercus,Stiel-Eiche,Quercus robur,"5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"109","2885085",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","17",,Deutschland Namensnennung 2.0,Land Berlin
+"110","2885126",Malus,Holz-Apfel,Malus sylvestris,"3","8","1996",Deutschland Namensnennung 2.0,Land Berlin
+"111","2885525",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"10","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"112","2828952",Acer,Eschen-Ahorn,Acer negundo,,"7","1981",Deutschland Namensnennung 2.0,Land Berlin
+"113","2832985",Acer,Spitz-Ahorn,Acer platanoides,,"7","1981",Deutschland Namensnennung 2.0,Land Berlin
+"114","2595897",Salix,,Salix spec.,"3","12",,GeoNutzV,Land Berlin
+"115","2595898",Salix,,Salix spec.,"3","12",,GeoNutzV,Land Berlin
+"116","2564811",Quercus,Stiel-Eiche,Quercus robur,"9","11","1985",GeoNutzV,Land Berlin
+"117","2564812",Quercus,Stiel-Eiche,Quercus robur,"4","9","1995",GeoNutzV,Land Berlin
+"118","2564813",Quercus,Stiel-Eiche,Quercus robur,"3","7","1998",GeoNutzV,Land Berlin
+"119","2564814",Quercus,Stiel-Eiche,Quercus robur,"5","9","1998",GeoNutzV,Land Berlin
+"120","2564815",Quercus,Stiel-Eiche,Quercus robur,"2","8","1998",GeoNutzV,Land Berlin
+"121","2564816",Quercus,Stiel-Eiche,Quercus robur,"10","9","1890",GeoNutzV,Land Berlin
+"122","2564817",Quercus,Stiel-Eiche,Quercus robur,"4","6","1995",GeoNutzV,Land Berlin
+"123","2564818",Quercus,Stiel-Eiche,Quercus robur,"4","4","1995",GeoNutzV,Land Berlin
+"124","2564819",Quercus,Stiel-Eiche,Quercus robur,"8","10","1990",GeoNutzV,Land Berlin
+"125","2564820",Quercus,Stiel-Eiche,Quercus robur,"4","5","1990",GeoNutzV,Land Berlin
+"126","2564821",Quercus,Stiel-Eiche,Quercus robur,"6","5","1995",GeoNutzV,Land Berlin
+"127","2564822",Quercus,Stiel-Eiche,Quercus robur,"8","10","1990",GeoNutzV,Land Berlin
+"128","2564823",Quercus,Stiel-Eiche,Quercus robur,"6","9","1990",GeoNutzV,Land Berlin
+"129","2564824",Quercus,Stiel-Eiche,Quercus robur,"5","8","1995",GeoNutzV,Land Berlin
+"130","2564971",Quercus,Stiel-Eiche,Quercus robur,"10","15",,GeoNutzV,Land Berlin
+"131","2564972",Quercus,Stiel-Eiche,Quercus robur,"7","8",,GeoNutzV,Land Berlin
+"132","2595899",Salix,,Salix spec.,"3","12",,GeoNutzV,Land Berlin
+"133","2565106",Acer,Spitz-Ahorn,Acer platanoides,"4","8",,GeoNutzV,Land Berlin
+"134","2595900",Salix,,Salix spec.,"3","12",,GeoNutzV,Land Berlin
+"135","2565277",Salix,,Salix spec.,"5","6",,GeoNutzV,Land Berlin
+"136","2565278",Salix,,Salix spec.,"3","5",,GeoNutzV,Land Berlin
+"137","2565279",Salix,,Salix spec.,"6","6",,GeoNutzV,Land Berlin
+"138","2565280",Prunus,,Prunus avium,"6","13","1975",GeoNutzV,Land Berlin
+"139","2565281",Prunus,,Prunus domestica,"5","9","1985",GeoNutzV,Land Berlin
+"140","2565282",Prunus,,Prunus domestica,"3","7","1985",GeoNutzV,Land Berlin
+"141","2565283",Prunus,,Prunus domestica,"3","7",,GeoNutzV,Land Berlin
+"142","2565284",Prunus,,Prunus domestica,"2","8","1985",GeoNutzV,Land Berlin
+"143","2565285",Prunus,,Prunus domestica,"4","9","1980",GeoNutzV,Land Berlin
+"144","2565286",Prunus,,Prunus domestica,"4","8","1980",GeoNutzV,Land Berlin
+"145","2565287",Prunus,,Prunus domestica,"4","7","1980",GeoNutzV,Land Berlin
+"146","2565288",Prunus,,Prunus domestica,"4","7","1980",GeoNutzV,Land Berlin
+"147","2565289",Prunus,,Prunus domestica,"4","7","1980",GeoNutzV,Land Berlin
+"148","2565290",Prunus,,Prunus domestica,"4","7","1980",GeoNutzV,Land Berlin
+"149","2565291",Prunus,,Prunus domestica,"3","7","1980",GeoNutzV,Land Berlin
+"150","2565292",Prunus,,Prunus domestica,"5","8","1980",GeoNutzV,Land Berlin
+"151","2565293",Prunus,,Prunus domestica,"4","8","1980",GeoNutzV,Land Berlin
+"152","2565294",Prunus,,Prunus domestica,"4","8","1980",GeoNutzV,Land Berlin
+"153","2565295",Prunus,,Prunus domestica,"4","7","1980",GeoNutzV,Land Berlin
+"154","2565296",Salix,,Salix fragilis,"8","9","1975",GeoNutzV,Land Berlin
+"155","2565297",Salix,,Salix fragilis,"4","3","1975",GeoNutzV,Land Berlin
+"156","2565298",Salix,,Salix fragilis,"4","3","1975",GeoNutzV,Land Berlin
+"157","2565299",Malus,Holz-Apfel,Pinus sylvestris,"7","9",,GeoNutzV,Land Berlin
+"158","2565300",Arbutus,,Pseudotsuga menziesii,"6","8","1980",GeoNutzV,Land Berlin
+"159","2565301",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","11","1985",GeoNutzV,Land Berlin
+"160","2565302",Salix,,Salix spec.,"4","5",,GeoNutzV,Land Berlin
+"161","2565303",Piper,,Picea abies,"3","5",,GeoNutzV,Land Berlin
+"162","2565304",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","11","1985",GeoNutzV,Land Berlin
+"163","2565305",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","5","1985",GeoNutzV,Land Berlin
+"164","2565306",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","12","1980",GeoNutzV,Land Berlin
+"165","2565307",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12","1980",GeoNutzV,Land Berlin
+"166","2565308",Acer,Berg-Ahorn,Acer pseudoplatanus,"2","7",,GeoNutzV,Land Berlin
+"167","2565309",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"7","13","1950",GeoNutzV,Land Berlin
+"168","2565310",Acer,Eschen-Ahorn,Acer negundo,"9","14","1985",GeoNutzV,Land Berlin
+"169","2565311",Acer,Eschen-Ahorn,Acer negundo,"3","4","1985",GeoNutzV,Land Berlin
+"170","2565312",Acer,Eschen-Ahorn,Acer negundo,"4","5","1985",GeoNutzV,Land Berlin
+"171","2565313",Acer,Eschen-Ahorn,Acer negundo,"6","13","1985",GeoNutzV,Land Berlin
+"172","2565314",Acer,Eschen-Ahorn,Acer negundo,"5","8",,GeoNutzV,Land Berlin
+"173","2565315",Acer,Eschen-Ahorn,Acer negundo,"6","12","1980",GeoNutzV,Land Berlin
+"174","2565316",Acer,Eschen-Ahorn,Acer negundo,"4","12",,GeoNutzV,Land Berlin
+"175","2565317",Acer,Eschen-Ahorn,Acer negundo,"5","10","1985",GeoNutzV,Land Berlin
+"176","2565318",Acer,Eschen-Ahorn,Acer negundo,"8","14","1985",GeoNutzV,Land Berlin
+"177","2565319",Acer,Eschen-Ahorn,Acer negundo,"4","7",,GeoNutzV,Land Berlin
+"178","2565320",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","12","1985",GeoNutzV,Land Berlin
+"179","2565321",Acer,Berg-Ahorn,Acer pseudoplatanus,"2","10","1985",GeoNutzV,Land Berlin
+"180","2565322",Acer,Eschen-Ahorn,Acer negundo,"8","12","1985",GeoNutzV,Land Berlin
+"181","2565323",Acer,Eschen-Ahorn,Acer negundo,"6","10","1985",GeoNutzV,Land Berlin
+"182","2565324",Acer,Eschen-Ahorn,Acer negundo,"11","13","1980",GeoNutzV,Land Berlin
+"183","2565325",Acer,Eschen-Ahorn,Acer negundo,"2","6","1980",GeoNutzV,Land Berlin
+"184","2595901",Salix,,Salix spec.,"4","12",,GeoNutzV,Land Berlin
+"185","2565326",Acer,Eschen-Ahorn,Acer negundo,"7","16","1980",GeoNutzV,Land Berlin
+"186","2565327",Acer,Eschen-Ahorn,Acer negundo,"4","10","1985",GeoNutzV,Land Berlin
+"187","2565328",Betula,,Betula pendula,"4","18","1980",GeoNutzV,Land Berlin
+"188","2565329",Acer,Eschen-Ahorn,Acer negundo,"4","7","1985",GeoNutzV,Land Berlin
+"189","2565330",Acer,Eschen-Ahorn,Acer negundo,"3","6",,GeoNutzV,Land Berlin
+"190","2565331",Acer,Eschen-Ahorn,Acer negundo,"6","12","1980",GeoNutzV,Land Berlin
+"191","2565332",Acer,Eschen-Ahorn,Acer negundo,"7","15","1980",GeoNutzV,Land Berlin
+"192","2565333",Betula,,Betula pendula,"5","19","1980",GeoNutzV,Land Berlin
+"193","2565334",Betula,,Betula pendula,"4","17",,GeoNutzV,Land Berlin
+"194","2565335",Acer,Eschen-Ahorn,Acer negundo,"6","8","1980",GeoNutzV,Land Berlin
+"195","2565336",Acer,Berg-Ahorn,Acer pseudoplatanus,"1","5",,GeoNutzV,Land Berlin
+"196","2565337",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","7","1980",GeoNutzV,Land Berlin
+"197","2565338",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12",,GeoNutzV,Land Berlin
+"198","2565339",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12",,GeoNutzV,Land Berlin
+"199","2565340",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","14","1980",GeoNutzV,Land Berlin
+"200","2565341",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12","1980",GeoNutzV,Land Berlin
+"201","2565342",Acer,Berg-Ahorn,Acer pseudoplatanus,"2","10",,GeoNutzV,Land Berlin
+"202","2565343",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12","1980",GeoNutzV,Land Berlin
+"203","2565344",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12","1980",GeoNutzV,Land Berlin
+"204","2565345",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12",,GeoNutzV,Land Berlin
+"205","2565346",Salix,,Salix fragilis,"6","10","1980",GeoNutzV,Land Berlin
+"206","2565347",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","13","1980",GeoNutzV,Land Berlin
+"207","2565348",Acer,Berg-Ahorn,Acer pseudoplatanus,"2","8","1980",GeoNutzV,Land Berlin
+"208","2565349",Acer,Eschen-Ahorn,Acer negundo,"8","12","1980",GeoNutzV,Land Berlin
+"209","2565350",Acer,Eschen-Ahorn,Acer negundo,"3","10",,GeoNutzV,Land Berlin
+"210","2565351",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","14","1980",GeoNutzV,Land Berlin
+"211","2565352",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","12","1980",GeoNutzV,Land Berlin
+"212","2565353",Salix,,Salix spec.,"3","8",,GeoNutzV,Land Berlin
+"213","2565354",Salix,,Salix spec.,"3","8",,GeoNutzV,Land Berlin
+"214","2565355",Salix,,Salix spec.,"3","6",,GeoNutzV,Land Berlin
+"215","2565356",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12","1980",GeoNutzV,Land Berlin
+"216","2565357",Acer,Eschen-Ahorn,Acer negundo,"6","7",,GeoNutzV,Land Berlin
+"217","2565358",Betula,,Betula pendula,"6","18","1980",GeoNutzV,Land Berlin
+"218","2565359",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","18","1980",GeoNutzV,Land Berlin
+"219","2565360",Betula,,Betula pendula,"6","18","1980",GeoNutzV,Land Berlin
+"220","2565361",Betula,,Betula pendula,"6","18","1980",GeoNutzV,Land Berlin
+"221","2565362",Betula,,Betula pendula,"3","8",,GeoNutzV,Land Berlin
+"222","2565363",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","8",,GeoNutzV,Land Berlin
+"223","2565364",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7",,GeoNutzV,Land Berlin
+"224","2565365",Betula,,Betula pendula,"9","21","1970",GeoNutzV,Land Berlin
+"225","2565366",Prunus,Traubenkirsche,Prunus padus,"5","9","1985",GeoNutzV,Land Berlin
+"226","2565367",Prunus,Traubenkirsche,Prunus padus,"4","6","1985",GeoNutzV,Land Berlin
+"227","2565368",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","9","1980",GeoNutzV,Land Berlin
+"228","2565369",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","10",,GeoNutzV,Land Berlin
+"229","2565370",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","7","1980",GeoNutzV,Land Berlin
+"230","2565371",Acer,Berg-Ahorn,Acer pseudoplatanus,"7","13",,GeoNutzV,Land Berlin
+"231","2565372",Salix,Silber-Weide,Salix alba,"2","5",,GeoNutzV,Land Berlin
+"232","2565373",Salix,Silber-Weide,Salix alba,"2","5",,GeoNutzV,Land Berlin
+"233","2565374",Salix,Silber-Weide,Salix alba,"2","5",,GeoNutzV,Land Berlin
+"234","2565375",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","12","1980",GeoNutzV,Land Berlin
+"235","2565376",Acer,Berg-Ahorn,Acer pseudoplatanus,"7","15","1980",GeoNutzV,Land Berlin
+"236","2565377",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","8",,GeoNutzV,Land Berlin
+"237","2565378",Salix,Silber-Weide,Salix alba,"10","19","1980",GeoNutzV,Land Berlin
+"238","2565379",Salix,Silber-Weide,Salix alba,"10","19","1980",GeoNutzV,Land Berlin
+"239","2565380",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12",,GeoNutzV,Land Berlin
+"240","2565381",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","9","1980",GeoNutzV,Land Berlin
+"241","2565382",Betula,,Betula pendula,"6","18","1980",GeoNutzV,Land Berlin
+"242","2565383",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","10","1980",GeoNutzV,Land Berlin
+"243","2565384",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","10","1980",GeoNutzV,Land Berlin
+"244","2565385",Betula,,Betula pendula,"5","17","1980",GeoNutzV,Land Berlin
+"245","2565386",Betula,,Betula pendula,"5","21","1980",GeoNutzV,Land Berlin
+"246","2565387",Betula,,Betula pendula,"5","21","1980",GeoNutzV,Land Berlin
+"247","2565388",Betula,,Betula pendula,"5","22","1980",GeoNutzV,Land Berlin
+"248","2565389",Betula,,Betula pendula,"5","22","1980",GeoNutzV,Land Berlin
+"249","2565390",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","9","1980",GeoNutzV,Land Berlin
+"250","2565391",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","8","1980",GeoNutzV,Land Berlin
+"251","2565392",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","10","1980",GeoNutzV,Land Berlin
+"252","2565393",Acer,Berg-Ahorn,Acer pseudoplatanus,"7","12","1980",GeoNutzV,Land Berlin
+"253","2565394",Betula,,Betula pendula,"7","22","1980",GeoNutzV,Land Berlin
+"254","2565395",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","8","1980",GeoNutzV,Land Berlin
+"255","2565396",Betula,,Betula pendula,"5","18","1980",GeoNutzV,Land Berlin
+"256","2565397",Betula,,Betula pendula,"6","19","1980",GeoNutzV,Land Berlin
+"257","2565398",Betula,,Betula pendula,"6","18","1980",GeoNutzV,Land Berlin
+"258","2565399",Betula,,Betula pendula,"6","18","1980",GeoNutzV,Land Berlin
+"259","2565400",Betula,,Betula pendula,"5","17","1980",GeoNutzV,Land Berlin
+"260","2565401",Betula,,Betula pendula,"4","15","1980",GeoNutzV,Land Berlin
+"261","2565402",Betula,,Betula pendula,"6","19","1980",GeoNutzV,Land Berlin
+"262","2565403",Betula,,Betula pendula,"5","18","1980",GeoNutzV,Land Berlin
+"263","2565404",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","10",,GeoNutzV,Land Berlin
+"264","2565405",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","14","1980",GeoNutzV,Land Berlin
+"265","2565406",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","15","1980",GeoNutzV,Land Berlin
+"266","2565407",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","14","1980",GeoNutzV,Land Berlin
+"267","2565408",Betula,,Betula pendula,"4","11",,GeoNutzV,Land Berlin
+"268","2565409",Prunus,Späte Traubenkirsche,Prunus serotina,"5","7",,GeoNutzV,Land Berlin
+"269","2565410",Prunus,Späte Traubenkirsche,Prunus serotina,"5","6",,GeoNutzV,Land Berlin
+"270","2565411",Betula,,Betula pendula,"7","20",,GeoNutzV,Land Berlin
+"271","2565412",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","11","1985",GeoNutzV,Land Berlin
+"272","2565413",Prunus,Späte Traubenkirsche,Prunus serotina,"2","2",,GeoNutzV,Land Berlin
+"273","2565414",Betula,,Betula pendula,"8","20","1980",GeoNutzV,Land Berlin
+"274","2565415",Acer,Spitz-Ahorn,Acer platanoides,"4","5",,GeoNutzV,Land Berlin
+"275","2565416",Acer,Spitz-Ahorn,Acer platanoides,"6","7",,GeoNutzV,Land Berlin
+"276","2565417",Populus,Grau-Pappel,Populus canescens,"15","22","1960",GeoNutzV,Land Berlin
+"277","2565418",Acer,Spitz-Ahorn,Acer platanoides,"3","8","1980",GeoNutzV,Land Berlin
+"278","2565419",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"7","14","1970",GeoNutzV,Land Berlin
+"279","2565420",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","12","1970",GeoNutzV,Land Berlin
+"280","2565421",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","12","1970",GeoNutzV,Land Berlin
+"281","2565422",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"4","9","1970",GeoNutzV,Land Berlin
+"282","2565423",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"4","8","1970",GeoNutzV,Land Berlin
+"283","2565424",Acer,Spitz-Ahorn,Acer platanoides,"7","14","1975",GeoNutzV,Land Berlin
+"284","2565425",Acer,Eschen-Ahorn,Acer negundo,"7","10","1980",GeoNutzV,Land Berlin
+"285","2565426",Acer,Berg-Ahorn,Acer pseudoplatanus,"9","16","1970",GeoNutzV,Land Berlin
+"286","2565427",Betula,,Betula pendula,"10","21","1965",GeoNutzV,Land Berlin
+"287","2565428",Betula,,Betula pendula,"11","19","1965",GeoNutzV,Land Berlin
+"288","2565429",Salix,,Salix spec.,"5","7",,GeoNutzV,Land Berlin
+"289","2565430",Salix,,Salix spec.,"3","7",,GeoNutzV,Land Berlin
+"290","2565431",Acer,Eschen-Ahorn,Acer negundo,"12","15","1970",GeoNutzV,Land Berlin
+"291","2565432",Acer,Eschen-Ahorn,Acer negundo,"10","14","1970",GeoNutzV,Land Berlin
+"292","2565433",Acer,Eschen-Ahorn,Acer negundo,"4","9",,GeoNutzV,Land Berlin
+"293","2565434",Acer,Eschen-Ahorn,Acer negundo,"2","8",,GeoNutzV,Land Berlin
+"294","2565435",Acer,Eschen-Ahorn,Acer negundo,"5","8",,GeoNutzV,Land Berlin
+"295","2565436",Acer,Eschen-Ahorn,Acer negundo,"5","8",,GeoNutzV,Land Berlin
+"296","2565437",Acer,Eschen-Ahorn,Acer negundo,"5","8",,GeoNutzV,Land Berlin
+"297","2565438",Prunus,Späte Traubenkirsche,Prunus serotina,"6","5","1980",GeoNutzV,Land Berlin
+"298","2565439",Prunus,Traubenkirsche,Prunus padus,"7","13",,GeoNutzV,Land Berlin
+"299","2565440",Prunus,Traubenkirsche,Prunus padus,"7","13",,GeoNutzV,Land Berlin
+"300","2565441",Prunus,,Prunus domestica,"3","6","1980",GeoNutzV,Land Berlin
+"301","2565442",Prunus,,Prunus domestica,"2","6",,GeoNutzV,Land Berlin
+"302","2565443",Sambucus,Schwarzer Holunder,Sambucus nigra,"3","5",,GeoNutzV,Land Berlin
+"303","2565444",Salix,Sal-Weide,Salix caprea,"4","8",,GeoNutzV,Land Berlin
+"304","2565445",Salix,Sal-Weide,Salix caprea,"4","8",,GeoNutzV,Land Berlin
+"305","2565446",Salix,Sal-Weide,Salix caprea,"4","8",,GeoNutzV,Land Berlin
+"306","2565447",Salix,Sal-Weide,Salix caprea,"4","8",,GeoNutzV,Land Berlin
+"307","2565448",Prunus,,Prunus avium,"4","6",,GeoNutzV,Land Berlin
+"308","2565450",Enkianthus,,Salix matsudana,"5","7",,GeoNutzV,Land Berlin
+"309","2565451",Carpinus,Gewöhnliche Hainbuche,Carpinus betulus,"5","7",,GeoNutzV,Land Berlin
+"310","2595902",Salix,,Salix spec.,"4","12",,GeoNutzV,Land Berlin
+"311","2595903",Salix,,Salix spec.,"3","8",,GeoNutzV,Land Berlin
+"312","3254805",Carpinus,Gewöhnliche Hainbuche,Carpinus betulus,"10","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"313","3255211",Tilia,Sommer-Linde,Tilia platyphyllos,"6","12","1995",Deutschland Namensnennung 2.0,Land Berlin
+"314","3256089",Acer,Spitz-Ahorn,Acer platanoides,"7","12","1982",Deutschland Namensnennung 2.0,Land Berlin
+"315","3256383",Acer,Eschen-Ahorn,Acer negundo,"5","12","1963",Deutschland Namensnennung 2.0,Land Berlin
+"316","3256811",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"317","3258360",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"8","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"318","3258617",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","10","1985",Deutschland Namensnennung 2.0,Land Berlin
+"319","3258619",Acer,Eschen-Ahorn,Acer negundo,"6","10","1985",Deutschland Namensnennung 2.0,Land Berlin
+"320","3258921",Quercus,Rot-Eiche,Quercus rubra,"4","25","1991",Deutschland Namensnennung 2.0,Land Berlin
+"321","3259225",Betula,,Betula pendula,"8","10","1980",Deutschland Namensnennung 2.0,Land Berlin
+"322","3259329",Quercus,Stiel-Eiche,Quercus robur,"3.5","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"323","3259332",Quercus,Stiel-Eiche,Quercus robur,"9","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"324","3260236",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"11","12","1965",Deutschland Namensnennung 2.0,Land Berlin
+"325","3260282",Corylus,Baum-Hasel,Corylus colurna,"4","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"326","3260645",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","12","1987",Deutschland Namensnennung 2.0,Land Berlin
+"327","3260685",Betula,,Betula pendula,"8","12","1967",Deutschland Namensnennung 2.0,Land Berlin
+"328","3260751",Tilia,Sommer-Linde,Tilia platyphyllos,"4","8","1985",Deutschland Namensnennung 2.0,Land Berlin
+"329","3260810",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"330","3261005",Acer,Eschen-Ahorn,Acer negundo,"18","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"331","3261038",Ulmus,Flatter-Ulme,Ulmus laevis,"8","20","1960",Deutschland Namensnennung 2.0,Land Berlin
+"332","3261076",Populus,Simons Pappel,Populus simonii,"8","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"333","3261309",Populus,Simons Pappel,Populus simonii,"7","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"334","3261310",Populus,Simons Pappel,Populus simonii,"7","17","1982",Deutschland Namensnennung 2.0,Land Berlin
+"335","3261382",Populus,Simons Pappel,Populus simonii,"8","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"336","3216917",Acer,Berg-Ahorn,Acer pseudoplatanus,"16","17","1930",Deutschland Namensnennung 2.0,Land Berlin
+"337","3220241",Acer,Spitz-Ahorn,Acer platanoides,"7","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"338","3220301",Quercus,,Platanus acerifolia,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"339","3220302",Quercus,,Platanus acerifolia,"4","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"340","3239341",Acer,Spitz-Ahorn,Acer platanoides,,"12","1997",Deutschland Namensnennung 2.0,Land Berlin
+"341","3239667",Corylus,Baum-Hasel,Corylus colurna,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"342","3239770",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","7","1987",Deutschland Namensnennung 2.0,Land Berlin
+"343","3239998",Acer,Spitz-Ahorn,Acer platanoides,"1.5","7","2004",Deutschland Namensnennung 2.0,Land Berlin
+"344","3240723",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","8","2003",Deutschland Namensnennung 2.0,Land Berlin
+"345","3241730",Acer,Spitz-Ahorn,Acer platanoides,"5","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"346","3241891",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"347","3242202",Populus,Simons Pappel,Populus simonii,"8","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"348","3242442",Acer,Spitz-Ahorn,Acer platanoides,"5","7","2007",Deutschland Namensnennung 2.0,Land Berlin
+"349","3243088",Acer,Spitz-Ahorn,Acer platanoides,"4","10","1982",Deutschland Namensnennung 2.0,Land Berlin
+"350","3172887",Quercus,,Platanus acerifolia,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"351","3179901",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"352","3179932",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"353","3180830",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"354","3172888",Quercus,,Platanus acerifolia,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"355","2891317",Tilia,,Tilia americana,"8","17","1974",Deutschland Namensnennung 2.0,Land Berlin
+"356","2891657",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1970",Deutschland Namensnennung 2.0,Land Berlin
+"357","2891879",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","10","1960",Deutschland Namensnennung 2.0,Land Berlin
+"358","2891884",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"359","2891890",Acer,Feld-Ahorn,Acer campestre,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"360","2891998",Acer,Berg-Ahorn,Acer pseudoplatanus,"8","17","1980",Deutschland Namensnennung 2.0,Land Berlin
+"361","2892059",Acer,Eschen-Ahorn,Acer negundo,,"17",,Deutschland Namensnennung 2.0,Land Berlin
+"362","2892062",Acer,Eschen-Ahorn,Acer negundo,"8","15",,Deutschland Namensnennung 2.0,Land Berlin
+"363","2892418",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","12","2002",Deutschland Namensnennung 2.0,Land Berlin
+"364","2892850",Acer,Eschen-Ahorn,Acer negundo,"10","12",,Deutschland Namensnennung 2.0,Land Berlin
+"365","2892852",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","7",,Deutschland Namensnennung 2.0,Land Berlin
+"366","2893280",Acer,Spitz-Ahorn,Acer platanoides,"4","10","1960",Deutschland Namensnennung 2.0,Land Berlin
+"367","2893523",Acer,Berg-Ahorn,Acer pseudoplatanus,"3.5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"368","2893589",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"369","2894096",Juglans,Walnuss,Juglans regia,"5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"370","2894099",Betula,,Betula pendula,,"7",,Deutschland Namensnennung 2.0,Land Berlin
+"371","3026757",Tilia,Winter-Linde,Tilia cordata,"3","7","1997",Deutschland Namensnennung 2.0,Land Berlin
+"372","3240267",Populus,Balsam-Pappel,Populus balsamifera,"8","28",,Deutschland Namensnennung 2.0,Land Berlin
+"373","3243050",Acer,Eschen-Ahorn,Acer negundo,"7","12","1997",Deutschland Namensnennung 2.0,Land Berlin
+"374","3243624",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","7","2002",Deutschland Namensnennung 2.0,Land Berlin
+"375","3244024",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","10","1985",Deutschland Namensnennung 2.0,Land Berlin
+"376","3244314",Quercus,Stiel-Eiche,Quercus robur,"5","20","1989",Deutschland Namensnennung 2.0,Land Berlin
+"377","3246083",Acer,Spitz-Ahorn,Acer platanoides,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"378","3246127",Acer,Feld-Ahorn,Acer campestre,"5","5","2010",Deutschland Namensnennung 2.0,Land Berlin
+"379","3246995",Salix,Trauer-Weide 'Tortuosa',Salix 'Tortuosa',"6","5","1986",Deutschland Namensnennung 2.0,Land Berlin
+"380","3247296",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"381","2740493",Populus,Silber-Pappel,Populus alba,"10","25","1951",Deutschland Namensnennung 2.0,Land Berlin
+"382","2889857",Sorbus,Vogelbeere,Sorbus aucuparia,"3","3",,Deutschland Namensnennung 2.0,Land Berlin
+"383","2891551",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"384","2891655",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1993",Deutschland Namensnennung 2.0,Land Berlin
+"385","2891656",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"386","2891869",Acer,Eschen-Ahorn,Acer negundo,"5","10","1960",Deutschland Namensnennung 2.0,Land Berlin
+"387","2891875",Populus,,Populus x canadensis Hybride,"7","15","1950",Deutschland Namensnennung 2.0,Land Berlin
+"388","2891880",Populus,,Populus x canadensis Hybride,"6","20","1950",Deutschland Namensnennung 2.0,Land Berlin
+"389","2891883",Acer,Eschen-Ahorn,Acer negundo,"8","10","1960",Deutschland Namensnennung 2.0,Land Berlin
+"390","2891885",Populus,,Populus x canadensis Hybride,"6","12","1950",Deutschland Namensnennung 2.0,Land Berlin
+"391","2891892",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"5","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"392","2892064",Piper,,Picea abies,,"10",,Deutschland Namensnennung 2.0,Land Berlin
+"393","2892070",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"394","2892608",Acer,Spitz-Ahorn,Acer platanoides,"3","12",,Deutschland Namensnennung 2.0,Land Berlin
+"395","2892610",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7",,Deutschland Namensnennung 2.0,Land Berlin
+"396","2865913",Malus,Holz-Apfel,Malus sylvestris,"5","3",,Deutschland Namensnennung 2.0,Land Berlin
+"397","2865919",Prunus,,Prunus avium,"6","3",,Deutschland Namensnennung 2.0,Land Berlin
+"398","2868749",Populus,Berliner Pappel,Populus berolinensis,"15","27","1970",Deutschland Namensnennung 2.0,Land Berlin
+"399","2869759",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","7","1999",Deutschland Namensnennung 2.0,Land Berlin
+"400","2872684",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","7","1999",Deutschland Namensnennung 2.0,Land Berlin
+"401","2877613",Acer,Spitz-Ahorn,Acer platanoides,"5","10","1960",Deutschland Namensnennung 2.0,Land Berlin
+"402","2877617",Populus,,Populus x canadensis Hybride,"6","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"403","2877635",Populus,,Populus x canadensis Hybride,"5","12","1950",Deutschland Namensnennung 2.0,Land Berlin
+"404","2877877",Populus,,Populus x canadensis Hybride,"5","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"405","2877882",Sorbus,Gewöhnliche Mehlbeere,Sorbus aria,"4","7","1997",Deutschland Namensnennung 2.0,Land Berlin
+"406","2877883",Sorbus,Gewöhnliche Mehlbeere,Sorbus aria,"4","7","1997",Deutschland Namensnennung 2.0,Land Berlin
+"407","3263590",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12","1970",Deutschland Namensnennung 2.0,Land Berlin
+"408","3264053",Acer,Eschen-Ahorn,Acer negundo,"6","10","1937",Deutschland Namensnennung 2.0,Land Berlin
+"409","3264392",Magnolia,Kobushi-Magnolie,Magnolia kobus,"1","7","2013",Deutschland Namensnennung 2.0,Land Berlin
+"410","3264766",Acer,Spitz-Ahorn,Acer platanoides,,"12","2003",Deutschland Namensnennung 2.0,Land Berlin
+"411","3264768",Acer,Spitz-Ahorn,Acer platanoides,"3","7","2003",Deutschland Namensnennung 2.0,Land Berlin
+"412","3265733",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"413","3267274",Acer,Silber-Ahorn,Acer saccharinum,"15","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"414","3267960",Quercus,Rot-Eiche,Quercus rubra,"5","20","1999",Deutschland Namensnennung 2.0,Land Berlin
+"415","3268464",Juglans,Walnuss,Juglans regia,"6","5","2007",Deutschland Namensnennung 2.0,Land Berlin
+"416","3269611",Corylus,Baum-Hasel,Corylus colurna,"4","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"417","3269613",Tilia,Winter-Linde,Tilia cordata,"5","10","1985",Deutschland Namensnennung 2.0,Land Berlin
+"418","3269636",Acer,Spitz-Ahorn 'Crimson King',Acer platanoides 'Crimson King',"4","7","1995",Deutschland Namensnennung 2.0,Land Berlin
+"419","3246281",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"420","3246449",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","7","1998",Deutschland Namensnennung 2.0,Land Berlin
+"421","3246555",Populus,Simons Pappel,Populus simonii,"6","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"422","3246633",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"3","7","1982",Deutschland Namensnennung 2.0,Land Berlin
+"423","3247827",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,,"12","1986",Deutschland Namensnennung 2.0,Land Berlin
+"424","3247833",Quercus,Rot-Eiche,Quercus rubra,"8","25","1981",Deutschland Namensnennung 2.0,Land Berlin
+"425","3249533",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"9","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"426","3249534",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"8","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"427","3249714",Acer,Spitz-Ahorn,Acer platanoides,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"428","3249843",Acer,Berg-Ahorn,Acer pseudoplatanus,"7","7","1982",Deutschland Namensnennung 2.0,Land Berlin
+"429","3249894",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"6","15","1990",Deutschland Namensnennung 2.0,Land Berlin
+"430","3249954",Carpinus,Gewöhnliche Hainbuche,Carpinus betulus,"7","7","1995",Deutschland Namensnennung 2.0,Land Berlin
+"431","3250087",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"432","3250306",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"1.5","7","2001",Deutschland Namensnennung 2.0,Land Berlin
+"433","3250823",Gleditsia,Amerikanische Gleditschie,Gleditsia triacanthos,"6","12","1982",Deutschland Namensnennung 2.0,Land Berlin
+"434","3251526",Quercus,Stiel-Eiche,Quercus robur,"5","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"435","3254699",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"436","3254802",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"10","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"437","3254919",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"438","3254992",Acer,Spitz-Ahorn,Acer platanoides,"3","7","1982",Deutschland Namensnennung 2.0,Land Berlin
+"439","3255195",Populus,Simons Pappel,Populus simonii,"6","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"440","3255232",Ailanthus,,Ailanthus altissima,"5","12","2000",Deutschland Namensnennung 2.0,Land Berlin
+"441","3255233",Ailanthus,,Ailanthus altissima,"4","12","2007",Deutschland Namensnennung 2.0,Land Berlin
+"442","2896396",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"8","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"443","2897061",Betula,,Betula pendula,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"444","2897062",Corylus,Baum-Hasel,Corylus colurna,"6","7","1960",Deutschland Namensnennung 2.0,Land Berlin
+"445","2897213",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","17","1980",Deutschland Namensnennung 2.0,Land Berlin
+"446","2897449",Clematis,,Picea omorika,,"10",,Deutschland Namensnennung 2.0,Land Berlin
+"447","2897656",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"8","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"448","2898152",Prunus,Japanische Blütenkirsche,Prunus serrulata,"5","3","1989",Deutschland Namensnennung 2.0,Land Berlin
+"449","2898154",Ailanthus,,Ailanthus altissima,"6","12","1989",Deutschland Namensnennung 2.0,Land Berlin
+"450","2898952",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"451","2898954",Acer,Berg-Ahorn,Acer pseudoplatanus,"6","15","1943",Deutschland Namensnennung 2.0,Land Berlin
+"452","2898956",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"453","2898957",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"4","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"454","2904000",Tilia,Krim-Linde,Tilia euchlora,"6","17","1990",Deutschland Namensnennung 2.0,Land Berlin
+"455","2904072",Prunus,Traubenkirsche,Prunus padus,"4","3",,Deutschland Namensnennung 2.0,Land Berlin
+"456","2904693",Populus,,Populus x canadensis Hybride,"7","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"457","2904926",Acer,Eschen-Ahorn,Acer negundo,"9","14","1960",Deutschland Namensnennung 2.0,Land Berlin
+"458","2905264",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","12",,Deutschland Namensnennung 2.0,Land Berlin
+"459","2905506",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","7",,Deutschland Namensnennung 2.0,Land Berlin
+"460","2905509",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","12",,Deutschland Namensnennung 2.0,Land Berlin
+"461","2905646",Quercus,Stiel-Eiche,Quercus robur,"6","20",,Deutschland Namensnennung 2.0,Land Berlin
+"462","2565449",Cornus,Kornelkirsche,Cornus mas,"5","6",,GeoNutzV,Land Berlin
+"463","3250531",Populus,Berliner Pappel,Populus berolinensis,"10","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"464","3250825",Gleditsia,Amerikanische Gleditschie,Gleditsia triacanthos,"5","15","1982",Deutschland Namensnennung 2.0,Land Berlin
+"465","3251517",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"2","3","2014",Deutschland Namensnennung 2.0,Land Berlin
+"466","3251846",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"467","3252454",Corylus,Baum-Hasel,Corylus colurna,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"468","3253319",Populus,Kanada-Pappel,Populus canadensis,,"12","1995",Deutschland Namensnennung 2.0,Land Berlin
+"469","3254741",Betula,,Betula pendula,"10","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"470","3254804",Tilia,Krim-Linde,Tilia euchlora,"8","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"471","3254907",Populus,,Populus x canadensis Hybride,"12","20","1970",Deutschland Namensnennung 2.0,Land Berlin
+"472","3254910",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"473","3255194",Populus,Simons Pappel,Populus simonii,"8","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"474","3255198",Quercus,,Platanus acerifolia,"5","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"475","3256063",Tilia,Sommer-Linde,Tilia platyphyllos,"7","12","1997",Deutschland Namensnennung 2.0,Land Berlin
+"476","3256344",Acer,Eschen-Ahorn,Acer negundo,"10","12","1970",Deutschland Namensnennung 2.0,Land Berlin
+"477","3256382",Quercus,Rot-Eiche,Quercus rubra,"8","25","1970",Deutschland Namensnennung 2.0,Land Berlin
+"478","3256741",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"479","3258267",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"480","3258297",Ulmus,Flatter-Ulme,Ulmus laevis,"10","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"481","3258298",Tilia,Winter-Linde,Tilia cordata,"8","12","1970",Deutschland Namensnennung 2.0,Land Berlin
+"482","3258359",Tilia,Silber-Linde,Tilia tomentosa,"18","12","1965",Deutschland Namensnennung 2.0,Land Berlin
+"483","3258616",Acer,Eschen-Ahorn,Acer negundo,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"484","3259011",Acer,Eschen-Ahorn,Acer negundo,,"12","1997",Deutschland Namensnennung 2.0,Land Berlin
+"485","3259014",Quercus,Rot-Eiche,Quercus rubra,"3","20","2003",Deutschland Namensnennung 2.0,Land Berlin
+"486","3259235",Populus,,Populus x canadensis Hybride,"10","17","1970",Deutschland Namensnennung 2.0,Land Berlin
+"487","3259388",Acer,Spitz-Ahorn,Acer platanoides,,"10","2005",Deutschland Namensnennung 2.0,Land Berlin
+"488","3260117",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","7","2003",Deutschland Namensnennung 2.0,Land Berlin
+"489","3260397",Acer,Spitz-Ahorn,Acer platanoides,"4","18","2000",Deutschland Namensnennung 2.0,Land Berlin
+"490","3260644",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"5","10","1987",Deutschland Namensnennung 2.0,Land Berlin
+"491","3260852",Quercus,Rot-Eiche,Quercus rubra,"12","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"492","3261003",Acer,Berg-Ahorn,Acer pseudoplatanus,"2.5","5","1994",Deutschland Namensnennung 2.0,Land Berlin
+"493","3261035",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"8","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"494","3261036",Betula,,Betula pendula,"8","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"495","3261040",Quercus,Stiel-Eiche,Quercus robur,"5","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"496","3261102",Betula,,Betula pendula,"8","17","1980",Deutschland Namensnennung 2.0,Land Berlin
+"497","3261383",Populus,Simons Pappel,Populus simonii,"7","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"498","3261384",Populus,Simons Pappel,Populus simonii,"7","27","1965",Deutschland Namensnennung 2.0,Land Berlin
+"499","3261386",Populus,Simons Pappel,Populus simonii,"7","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"500","3261728",Populus,Berliner Pappel,Populus berolinensis,"6","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"501","3262133",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"502","3262731",Acer,Berg-Ahorn,Acer pseudoplatanus,"11","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"503","3262857",Populus,Simons Pappel,Populus simonii,"6","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"504","3263760",Acer,Spitz-Ahorn,Acer platanoides,"12","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"505","3264054",Acer,Spitz-Ahorn,Acer platanoides,"3","7","2000",Deutschland Namensnennung 2.0,Land Berlin
+"506","3264433",Corylus,Baum-Hasel,Corylus colurna,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"507","3266572",Quercus,Stiel-Eiche,Quercus robur,"7","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"508","3267956",Acer,Eschen-Ahorn,Acer negundo,"4","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"509","3267957",Quercus,Stiel-Eiche,Quercus robur,"8","20","1961",Deutschland Namensnennung 2.0,Land Berlin
+"510","3267959",Quercus,Rot-Eiche,Quercus rubra,"1.5","5","2011",Deutschland Namensnennung 2.0,Land Berlin
+"511","3268117",Quercus,Stiel-Eiche,Quercus robur,"7","17","1985",Deutschland Namensnennung 2.0,Land Berlin
+"512","3268228",Populus,Simons Pappel,Populus simonii,"9","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"513","3268458",Populus,Simons Pappel,Populus simonii,"7","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"514","3269498",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"515","3267871",Liquidambar,Amerikanischer Amberbaum,Liquidambar styraciflua,,"5","2014",Deutschland Namensnennung 2.0,Land Berlin
+"516","3067648",Tilia,Winter-Linde,Tilia cordata,"4","7","2002",Deutschland Namensnennung 2.0,Land Berlin
+"517","3179684",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"518","3183010",Quercus,,Platanus acerifolia,"4","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"519","3183011",Quercus,,Platanus acerifolia,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"520","3183472",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"5","7","1996",Deutschland Namensnennung 2.0,Land Berlin
+"521","3184886",Acer,Spitz-Ahorn,Acer platanoides,"12","17","1930",Deutschland Namensnennung 2.0,Land Berlin
+"522","3217886",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"523","3218383",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"2","7","2000",Deutschland Namensnennung 2.0,Land Berlin
+"524","3224857",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"11","17","1940",Deutschland Namensnennung 2.0,Land Berlin
+"525","3235980",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"10","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"526","3237171",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"527","3239568",Magnolia,Kobushi-Magnolie,Magnolia kobus,"1","7","2013",Deutschland Namensnennung 2.0,Land Berlin
+"528","3239665",Corylus,Baum-Hasel,Corylus colurna,"4","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"529","3239674",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"530","3241388",Ailanthus,,Ailanthus altissima,"6","17","1989",Deutschland Namensnennung 2.0,Land Berlin
+"531","3241389",Quercus,Stiel-Eiche,Quercus robur,,"20","1985",Deutschland Namensnennung 2.0,Land Berlin
+"532","3241885",Tilia,,Tilia americana,"5","15","1990",Deutschland Namensnennung 2.0,Land Berlin
+"533","3241929",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"8","12","1970",Deutschland Namensnennung 2.0,Land Berlin
+"534","3241930",Malus,Holz-Apfel,Pinus sylvestris,"6","12","1970",Deutschland Namensnennung 2.0,Land Berlin
+"535","3242051",Acer,Spitz-Ahorn,Acer platanoides,"4","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"536","3242204",Populus,Simons Pappel,Populus simonii,"6","17","1982",Deutschland Namensnennung 2.0,Land Berlin
+"537","3242863",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","7","2002",Deutschland Namensnennung 2.0,Land Berlin
+"538","3243860",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","10","1987",Deutschland Namensnennung 2.0,Land Berlin
+"539","3244316",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"3","20","2003",Deutschland Namensnennung 2.0,Land Berlin
+"540","3245205",Acer,Berg-Ahorn,Acer pseudoplatanus,"8","7","1965",Deutschland Namensnennung 2.0,Land Berlin
+"541","3245399",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"2","3","2014",Deutschland Namensnennung 2.0,Land Berlin
+"542","3246280",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"543","3246447",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7","1965",Deutschland Namensnennung 2.0,Land Berlin
+"544","3247829",Quercus,Rot-Eiche,Quercus rubra,"5","17","1989",Deutschland Namensnennung 2.0,Land Berlin
+"545","3247830",Quercus,Stiel-Eiche,Quercus robur,"1.5","7","2003",Deutschland Namensnennung 2.0,Land Berlin
+"546","3249715",Acer,Spitz-Ahorn,Acer platanoides,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"547","3249762",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"548","3250011",Tilia,Sommer-Linde,Tilia platyphyllos,"6","17","1995",Deutschland Namensnennung 2.0,Land Berlin
+"549","3251632",Quercus,,Platanus acerifolia,"9","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"550","3251633",Quercus,,Platanus acerifolia,"9","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"551","3252097",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","15","1990",Deutschland Namensnennung 2.0,Land Berlin
+"552","3252460",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"553","3253457",Populus,Kanada-Pappel,Populus canadensis,"8","27","1939",Deutschland Namensnennung 2.0,Land Berlin
+"554","3256292",Populus,,Populus spec.,"8","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"555","3256380",Quercus,Rot-Eiche,Quercus rubra,"8","25","1958",Deutschland Namensnennung 2.0,Land Berlin
+"556","3256739",Betula,,Betula pendula,"8","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"557","3258271",Acer,Spitz-Ahorn,Acer platanoides,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"558","3258910",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"559","3258912",Acer,Spitz-Ahorn,Acer platanoides,,"17","1986",Deutschland Namensnennung 2.0,Land Berlin
+"560","3259208",Tilia,Winter-Linde,Tilia cordata,"5","15","1990",Deutschland Namensnennung 2.0,Land Berlin
+"561","3259331",Quercus,Stiel-Eiche,Quercus robur,"5","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"562","3260643",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","12","1987",Deutschland Namensnennung 2.0,Land Berlin
+"563","3260809",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"564","3261073",Acer,Spitz-Ahorn,Acer platanoides,"5","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"565","3261392",Quercus,Stiel-Eiche,Quercus robur,"6.5","17","1924",Deutschland Namensnennung 2.0,Land Berlin
+"566","3261420",Acer,Spitz-Ahorn,Acer platanoides,"4","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"567","3262451",Acer,Spitz-Ahorn,Acer platanoides,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"568","3262871",Tilia,Sommer-Linde,Tilia platyphyllos,"6","17","1995",Deutschland Namensnennung 2.0,Land Berlin
+"569","3262872",Tilia,Sommer-Linde,Tilia platyphyllos,"5","12","1995",Deutschland Namensnennung 2.0,Land Berlin
+"570","3263123",Populus,Italienische Pappel,Populus nigra 'Italica',"4","12","1992",Deutschland Namensnennung 2.0,Land Berlin
+"571","3264008",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"572","3264021",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","12","1987",Deutschland Namensnennung 2.0,Land Berlin
+"573","3264357",Quercus,Rot-Eiche,Quercus rubra,"6","20","1975",Deutschland Namensnennung 2.0,Land Berlin
+"574","3265716",Quercus,,Platanus acerifolia,"7","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"575","3266461",Quercus,Stiel-Eiche,Quercus robur,"6.5","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"576","3266575",Acer,Eschen-Ahorn,Acer negundo,"8","12","1984",Deutschland Namensnennung 2.0,Land Berlin
+"577","3268455",Populus,Simons Pappel,Populus simonii,"7","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"578","3269610",Corylus,Baum-Hasel,Corylus colurna,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"579","3182841",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"580","3183390",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"3","7","2000",Deutschland Namensnennung 2.0,Land Berlin
+"581","3216870",Quercus,,Platanus acerifolia,"5","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"582","3224860",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"11","12","1950",Deutschland Namensnennung 2.0,Land Berlin
+"583","3237162",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"584","3239930",Populus,Italienische Pappel,Populus nigra 'Italica',"5","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"585","3240001",Acer,Berg-Ahorn,Acer pseudoplatanus,"1","5","2018",Deutschland Namensnennung 2.0,Land Berlin
+"586","3241708",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"587","3242041",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"588","3242203",Populus,Simons Pappel,Populus simonii,"6","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"589","3242562",Acer,Spitz-Ahorn,Acer platanoides,"8","12","1982",Deutschland Namensnennung 2.0,Land Berlin
+"590","3244185",Quercus,Rot-Eiche,Quercus rubra,"3","7","2001",Deutschland Namensnennung 2.0,Land Berlin
+"591","3244315",Quercus,Rot-Eiche,Quercus rubra,"2","10","1997",Deutschland Namensnennung 2.0,Land Berlin
+"592","3244588",Acer,Spitz-Ahorn,Acer platanoides,"4","12","2000",Deutschland Namensnennung 2.0,Land Berlin
+"593","3245657",Corylus,Baum-Hasel,Corylus colurna,"6","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"594","3246105",Populus,,Populus x canadensis Hybride,"8","17","1970",Deutschland Namensnennung 2.0,Land Berlin
+"595","3246327",Acer,Spitz-Ahorn,Acer platanoides,"4","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"596","3246576",Quercus,Stiel-Eiche,Quercus robur,"5","17","1924",Deutschland Namensnennung 2.0,Land Berlin
+"597","3246843",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"8","12",,Deutschland Namensnennung 2.0,Land Berlin
+"598","3250455",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"6","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"599","3251262",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7","1999",Deutschland Namensnennung 2.0,Land Berlin
+"600","3251524",Quercus,Stiel-Eiche,Quercus robur,"7","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"601","3251525",Quercus,Stiel-Eiche,Quercus robur,"6","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"602","3252377",Quercus,,Platanus acerifolia,"12","20","1965",Deutschland Namensnennung 2.0,Land Berlin
+"603","3252765",Acer,Spitz-Ahorn,Acer platanoides,"10","20","1982",Deutschland Namensnennung 2.0,Land Berlin
+"604","3253320",Quercus,Stiel-Eiche,Quercus robur,"7","17","1978",Deutschland Namensnennung 2.0,Land Berlin
+"605","3255196",Populus,Simons Pappel,Populus simonii,"10","27","1965",Deutschland Namensnennung 2.0,Land Berlin
+"606","3255197",Populus,Simons Pappel,Populus simonii,"8","27","1965",Deutschland Namensnennung 2.0,Land Berlin
+"607","3256097",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","12","1987",Deutschland Namensnennung 2.0,Land Berlin
+"608","3256335",Fraxinus,Blumen-Esche,Fraxinus ornus,"3","3","1985",Deutschland Namensnennung 2.0,Land Berlin
+"609","3256345",Acer,Eschen-Ahorn,Acer negundo,"5","7","1970",Deutschland Namensnennung 2.0,Land Berlin
+"610","3257027",Populus,Silber-Pappel 'Nivea',Populus alba 'Nivea',"5","12",,Deutschland Namensnennung 2.0,Land Berlin
+"611","3257567",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","7","2004",Deutschland Namensnennung 2.0,Land Berlin
+"612","3258418",Acer,Eschen-Ahorn,Acer negundo,"4","7","1900",Deutschland Namensnennung 2.0,Land Berlin
+"613","3258812",Corylus,Baum-Hasel,Corylus colurna,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"614","3258817",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"4","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"615","3258965",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',,"25","1975",Deutschland Namensnennung 2.0,Land Berlin
+"616","3258966",Populus,Italienische Pappel,Populus nigra 'Italica',"4","35","1924",Deutschland Namensnennung 2.0,Land Berlin
+"617","3259390",Acer,Spitz-Ahorn,Acer platanoides,"3","10","2006",Deutschland Namensnennung 2.0,Land Berlin
+"618","3261037",Ulmus,Flatter-Ulme,Ulmus laevis,"10","17","1950",Deutschland Namensnennung 2.0,Land Berlin
+"619","3261387",Populus,Simons Pappel,Populus simonii,"8","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"620","3261449",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"2","3","2006",Deutschland Namensnennung 2.0,Land Berlin
+"621","3261613",Acer,Spitz-Ahorn,Acer platanoides,"5","12","2002",Deutschland Namensnennung 2.0,Land Berlin
+"622","3261614",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"13","15","1988",Deutschland Namensnennung 2.0,Land Berlin
+"623","3262139",Acer,Spitz-Ahorn,Acer platanoides,"5","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"624","3262467",Acer,Spitz-Ahorn,Acer platanoides,"6","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"625","3262574",Betula,,Betula pendula,"8","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"626","3262856",Populus,Simons Pappel,Populus simonii,"9","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"627","3262858",Populus,Simons Pappel,Populus simonii,"8","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"628","3263125",Populus,Italienische Pappel,Populus nigra 'Italica',"3","27","1977",Deutschland Namensnennung 2.0,Land Berlin
+"629","3263412",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"8","12","1960",Deutschland Namensnennung 2.0,Land Berlin
+"630","3263755",Acer,Spitz-Ahorn,Acer platanoides,"8","12","1982",Deutschland Namensnennung 2.0,Land Berlin
+"631","3264358",Quercus,Rot-Eiche,Quercus rubra,"10","25","1966",Deutschland Namensnennung 2.0,Land Berlin
+"632","3264361",Quercus,Rot-Eiche,Quercus rubra,"3","20","2001",Deutschland Namensnennung 2.0,Land Berlin
+"633","3264807",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"634","3265029",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","8","2004",Deutschland Namensnennung 2.0,Land Berlin
+"635","3265715",Tilia,Silber-Linde,Tilia tomentosa,"12","20","1924",Deutschland Namensnennung 2.0,Land Berlin
+"636","3267272",Liquidambar,Amerikanischer Amberbaum,Liquidambar styraciflua,"1","7","2014",Deutschland Namensnennung 2.0,Land Berlin
+"637","3267275",Liquidambar,Amerikanischer Amberbaum,Liquidambar styraciflua,"1","5","2014",Deutschland Namensnennung 2.0,Land Berlin
+"638","3267276",Ailanthus,,Ailanthus altissima,"7","17","1982",Deutschland Namensnennung 2.0,Land Berlin
+"639","3267431",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"640","3267791",Tilia,Sommer-Linde,Tilia platyphyllos,"8","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"641","3268013",Acer,Berg-Ahorn,Acer pseudoplatanus,"1","5","2018",Deutschland Namensnennung 2.0,Land Berlin
+"642","3268116",Quercus,Stiel-Eiche,Quercus robur,"7","17","1989",Deutschland Namensnennung 2.0,Land Berlin
+"643","3268457",Populus,Simons Pappel,Populus simonii,"8","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"644","3269433",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"645","3269435",Tilia,Sommer-Linde,Tilia platyphyllos,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"646","3114760",Acer,,Acer spec.,"1.5","7","2005",Deutschland Namensnennung 2.0,Land Berlin
+"647","3123682",Acer,Spitz-Ahorn,Acer platanoides,"1.5","7","1994",Deutschland Namensnennung 2.0,Land Berlin
+"648","3177338",Tilia,Sommer-Linde,Tilia platyphyllos,"8","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"649","3177365",Acer,Spitz-Ahorn,Acer platanoides,"7","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"650","3177374",Acer,Spitz-Ahorn,Acer platanoides,"5","3","1985",Deutschland Namensnennung 2.0,Land Berlin
+"651","3180088",Quercus,,Platanus acerifolia,"6","7","1993",Deutschland Namensnennung 2.0,Land Berlin
+"652","3180826",Acer,Berg-Ahorn,Acer pseudoplatanus,"7","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"653","3181534",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"3","3","1996",Deutschland Namensnennung 2.0,Land Berlin
+"654","3182588",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","7","1996",Deutschland Namensnennung 2.0,Land Berlin
+"655","3182827",Acer,Spitz-Ahorn,Acer platanoides,"7","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"656","3182830",Acer,Spitz-Ahorn,Acer platanoides,"6","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"657","3183201",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"8","7","1996",Deutschland Namensnennung 2.0,Land Berlin
+"658","3184389",Acer,Spitz-Ahorn,Acer platanoides,"7","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"659","3216918",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"7","12","1930",Deutschland Namensnennung 2.0,Land Berlin
+"660","3219282",Acer,Spitz-Ahorn,Acer platanoides,"6","7","1985",Deutschland Namensnennung 2.0,Land Berlin
+"661","3219527",Acer,Spitz-Ahorn,Acer platanoides,"5","3","1995",Deutschland Namensnennung 2.0,Land Berlin
+"662","3224856",Betula,,Betula pendula,"8","12","1970",Deutschland Namensnennung 2.0,Land Berlin
+"663","3224862",Betula,,Betula pendula,"6","12","1980",Deutschland Namensnennung 2.0,Land Berlin
+"664","3239343",Quercus,Stiel-Eiche,Quercus robur,"5","17","2001",Deutschland Namensnennung 2.0,Land Berlin
+"665","3239666",Corylus,Baum-Hasel,Corylus colurna,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"666","3239669",Corylus,Baum-Hasel,Corylus colurna,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"667","3239670",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","10","1985",Deutschland Namensnennung 2.0,Land Berlin
+"668","3239772",Corylus,Baum-Hasel,Corylus colurna,"4","7","1987",Deutschland Namensnennung 2.0,Land Berlin
+"669","3239993",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,,"7","2008",Deutschland Namensnennung 2.0,Land Berlin
+"670","3241525",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"671","3241740",Fraxinus,Gewöhnliche Esche,Fraxinus excelsior,"4","7","1990",Deutschland Namensnennung 2.0,Land Berlin
+"672","3242443",Populus,Italienische Pappel,Populus nigra 'Italica',"3","27","1983",Deutschland Namensnennung 2.0,Land Berlin
+"673","3243074",Gleditsia,Amerikanische Gleditschie,Gleditsia triacanthos,"8","12","1982",Deutschland Namensnennung 2.0,Land Berlin
+"674","3243087",Liquidambar,Amerikanischer Amberbaum,Liquidambar styraciflua,"1","7","2014",Deutschland Namensnennung 2.0,Land Berlin
+"675","3243586",Gleditsia,Amerikanische Gleditschie,Gleditsia triacanthos,"6","18","1982",Deutschland Namensnennung 2.0,Land Berlin
+"676","3243591",Ailanthus,,Ailanthus altissima,"10","25","1982",Deutschland Namensnennung 2.0,Land Berlin
+"677","3244088",Betula,,Betula pendula,"5","15","1987",Deutschland Namensnennung 2.0,Land Berlin
+"678","3244089",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","7","1987",Deutschland Namensnennung 2.0,Land Berlin
+"679","3244189",Quercus,Rot-Eiche,Quercus rubra,"8","25","1985",Deutschland Namensnennung 2.0,Land Berlin
+"680","3246147",Tilia,Krim-Linde,Tilia euchlora,"7","10","1940",Deutschland Namensnennung 2.0,Land Berlin
+"681","3246577",Quercus,Stiel-Eiche,Quercus robur,"6","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"682","3247831",Quercus,Rot-Eiche,Quercus rubra,"6","25","1993",Deutschland Namensnennung 2.0,Land Berlin
+"683","3249751",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"684","3249784",Acer,Berg-Ahorn,Acer pseudoplatanus,"5","12","1999",Deutschland Namensnennung 2.0,Land Berlin
+"685","3250080",Acer,Eschen-Ahorn,Acer negundo,"11","12","1983",Deutschland Namensnennung 2.0,Land Berlin
+"686","3250811",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"11","17","1965",Deutschland Namensnennung 2.0,Land Berlin
+"687","3250832",Acer,Spitz-Ahorn,Acer platanoides,"5","15","2000",Deutschland Namensnennung 2.0,Land Berlin
+"688","3252103",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"689","3252455",Corylus,Baum-Hasel,Corylus colurna,"4","10","2000",Deutschland Namensnennung 2.0,Land Berlin
+"690","3253267",Tilia,Holländische Linde 'Pallida',Tilia intermedia 'Pallida',"4","12","1987",Deutschland Namensnennung 2.0,Land Berlin
+"691","3254700",Acer,Spitz-Ahorn,Acer platanoides,"5","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"692","3254909",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"693","3255457",Acer,Spitz-Ahorn,Acer platanoides,"6","10","1992",Deutschland Namensnennung 2.0,Land Berlin
+"694","3255653",Acer,Eschen-Ahorn,Acer negundo,"8","7","1956",Deutschland Namensnennung 2.0,Land Berlin
+"695","3256092",Robinia,Gewöhnliche Scheinakazie,Robinia pseudoacacia,"10","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"696","3256351",Acer,Spitz-Ahorn,Acer platanoides,"3.5","10","1990",Deutschland Namensnennung 2.0,Land Berlin
+"697","3258618",Populus,Kanada-Pappel 'Robusta',Populus x canadensis 'Robusta',"5","20","1985",Deutschland Namensnennung 2.0,Land Berlin
+"698","3258813",Prunus,Kirsch-Pflaume,Prunus cerasifera,"4","5","1985",Deutschland Namensnennung 2.0,Land Berlin
+"699","3258816",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"700","3258818",Aesculus,Gewöhnliche Rosskastanie,Aesculus hippocastanum,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"701","3258819",Acer,Eschen-Ahorn,Acer negundo,"8","10","1985",Deutschland Namensnennung 2.0,Land Berlin
+"702","3258922",Quercus,Rot-Eiche,Quercus rubra,"6","20","1996",Deutschland Namensnennung 2.0,Land Berlin
+"703","3259013",Quercus,Stiel-Eiche,Quercus robur,"6","20","1988",Deutschland Namensnennung 2.0,Land Berlin
+"704","3259515",Quercus,Stiel-Eiche,Quercus robur,"11","27","1924",Deutschland Namensnennung 2.0,Land Berlin
+"705","3261002",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","7","1982",Deutschland Namensnennung 2.0,Land Berlin
+"706","3261385",Populus,Simons Pappel,Populus simonii,"7","27","1965",Deutschland Namensnennung 2.0,Land Berlin
+"707","3261615",Ailanthus,,Ailanthus altissima,"5","12","2002",Deutschland Namensnennung 2.0,Land Berlin
+"708","3262140",Acer,Berg-Ahorn,Acer pseudoplatanus,"4","10","1972",Deutschland Namensnennung 2.0,Land Berlin
+"709","3262448",Acer,Spitz-Ahorn,Acer platanoides,"4","14","1985",Deutschland Namensnennung 2.0,Land Berlin
+"710","3262541",Tilia,,Tilia americana,"6","15","1990",Deutschland Namensnennung 2.0,Land Berlin
+"711","3262854",Populus,Simons Pappel,Populus simonii,"7","25","1965",Deutschland Namensnennung 2.0,Land Berlin
+"712","3262946",Populus,Simons Pappel,Populus simonii,"4","17","1982",Deutschland Namensnennung 2.0,Land Berlin
+"713","3263126",Carpinus,Gewöhnliche Hainbuche,Carpinus betulus,"5","12","1990",Deutschland Namensnennung 2.0,Land Berlin
+"714","3263129",Ailanthus,,Ailanthus altissima,"10","12","1992",Deutschland Namensnennung 2.0,Land Berlin
+"715","3264201",Corylus,Baum-Hasel,Corylus colurna,"4","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"716","3264429",Prunus,Kirsch-Pflaume,Prunus cerasifera,"4","5","1985",Deutschland Namensnennung 2.0,Land Berlin
+"717","3264432",Tilia,Winter-Linde,Tilia cordata,"5","12","1985",Deutschland Namensnennung 2.0,Land Berlin
+"718","3264767",Acer,Spitz-Ahorn,Acer platanoides,,"12","2002",Deutschland Namensnennung 2.0,Land Berlin
+"719","3266361",Acer,Berg-Ahorn,Acer pseudoplatanus,"3","7","1965",Deutschland Namensnennung 2.0,Land Berlin
+"720","3266462",Quercus,Stiel-Eiche,Quercus robur,"8","25","1924",Deutschland Namensnennung 2.0,Land Berlin
+"721","3267949",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"4","10","2000",Deutschland Namensnennung 2.0,Land Berlin
+"722","3269199",Acer,Spitz-Ahorn,Acer platanoides,"4","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"723","3269200",Acer,Spitz-Ahorn,Acer platanoides,"5","12","1996",Deutschland Namensnennung 2.0,Land Berlin
+"724","3269434",Tilia,Winter-Linde 'Dilia',Tilia intermedia,"5","12","1993",Deutschland Namensnennung 2.0,Land Berlin
+"725","3043672",Acer,,Acer spec.,"1.5","7","2005",Deutschland Namensnennung 2.0,Land Berlin

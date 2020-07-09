@@ -1,0 +1,2 @@
+id,full_id,osm_id,osm_type,cables,frequency,gez,layer,name,operator,power,ref,voltage,wires,line,disused,circuits,location,endpoint:busbar,Count_of_trees
+"1",w166885638,"166885638",way,"3","50",,,,Stromnetz Berlin,line,"806","110000",single,,,,,,"725"
